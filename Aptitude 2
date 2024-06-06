@@ -1,0 +1,21 @@
+ Q: Equations 2X+3Y=9 & 7X+9Y=-6 have how many solutions?
+
+Ans:
+To determine how many solutions the system of equations 2x+3y=9 and 7x+9y=−6 has, we can use the concept of linear dependence and the determinant of the coefficient matrix.
+The system of equations is given by:
+2x+3y=9
+7x+9y=−6
+
+The coefficient matrix is:
+|2  3|
+|7  9|
+
+We need to find the determinant of this matrix to check if the lines are parallel, identical, or intersecting at a single point.
+
+The determinant D of the coefficient matrix is calculated as follows:
+    
+D = |2 3|  =(2⋅9)−(3⋅7)=18−21=−3
+    |7 9|
+
+Since the determinant D is non-zero (D=−3), the coefficient matrix is invertible, indicating that the system of equations has a unique solution.
+Therefore, the system of equations 2x+3y=9 and 7x+9y=−6 has exactly one solution.
