@@ -1,0 +1,31 @@
+Q: Income of A & B is in ratio 2:3. For example, if B’s income is Rs 3000, find out the ratio of their expenditures if their savings are Rs 500 & Rs 700,respectively
+Ans:
+To find the ratio of their expenditures, we need to determine the incomes and savings of both A and B, and then use this information to calculate their expenditures.
+Given:
+The ratio of incomes of A and B is 2:3.
+If B’s income is Rs 3000.
+Savings of A is Rs 500.
+Savings of B is Rs 700.
+First, let's find A's income. Since the ratio of A's income to B's income is 2:3 and B’s income is Rs 3000:
+A ′sincome/B ′sincome = 2/3
+
+Let A′sincome=x. Then:
+  x/3000 = 2/3
+Solving for x:
+  x = 2/3 * 3000 = 2000
+So, A's income is Rs 2000.
+
+Next, we calculate the expenditures of A and B.
+For A:
+Income of A = Rs 2000
+Savings of A = Rs 500
+Expenditure of A = Income - Savings = 2000 - 500 = Rs 1500
+For B:
+Income of B = Rs 3000
+Savings of B = Rs 700
+Expenditure of B = Income - Savings = 3000 - 700 = Rs 2300
+
+Finally, we find the ratio of their expenditures:
+   ExpenditureofA / ExpenditureofB =1500/2300 = 15/23
+Therefore, the ratio of their expenditures is 15:23.
+
