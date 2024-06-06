@@ -1,0 +1,10 @@
+Q: Equation ax^2+bx+c=0 will be ............. for a=b=c=0 
+Ans:
+The general form of a quadratic equation is:
+ax^2+bx+c=0
+If a=0, b=0, and c=0, the equation becomes:
+0x^2+0x+0=0
+0=0
+This is a true statement, but it is not an equation with a variable anymore. It is simply a tautology (a statement that is always true).
+In this case, the equation does not represent any particular curve or set of solutions in the coordinate system. Instead, it is always true regardless of the values of x. Therefore, every value of x satisfies the equation.
+So, the equation ax^2+bx+c=0 with a=0, b=0, and c=0 is true for all values of x. This means it has infinitely many solutions.
